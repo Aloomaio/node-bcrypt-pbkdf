@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "tweetnacl": "^0.14.3"
+    "tweetnacl": "git://github.com/Aloomaio/libsodium-tweetnacl-wrappers.git"
   },
   "devDependencies": {},
   "license": "BSD-3-Clause"
